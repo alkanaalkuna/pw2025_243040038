@@ -13,7 +13,7 @@
         .box {
             width: 50px;
             height: 50px;
-            background-color: tomato;
+            background-color: salmon;
             color: white;
             display: flex;
             justify-content: center;
